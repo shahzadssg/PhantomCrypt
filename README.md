@@ -1,4 +1,4 @@
-# PhantomCrypt: Achieving Second-Order Deniability in Post-Quantum Covert Communication
+# PhantomCrypt: Second-Order Deniable Encryption with Post-Quantum Security
 
 PhantomCrypt is a novel cryptographic protocol designed to provide **second-order deniability** for covert communication. This means it protects against both passive surveillance (making hidden messages undetectable) and active coercion (allowing plausible deniable messages to be revealed).
 
@@ -177,4 +177,5 @@ As a proof-of-concept, PhantomCrypt has areas for future development:
 *   **Real-world deployment studies**: User studies, network analysis for detectability, and legal implications.
 *   **Constant-time implementation**: Address timing side-channels in polynomial interpolation to prevent leakage.
 *   **Secure RNGs**: Ensure all random values are generated using cryptographically secure pseudorandom number generators (CSPRNGs) validated by statistical tests.
+
 
