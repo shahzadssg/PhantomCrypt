@@ -222,7 +222,6 @@ PhantomCrypt is provided for **research and evaluation only**. It has not been i
 }
 ```
 
-Replace with the published reference once available.
 
 ---
 
