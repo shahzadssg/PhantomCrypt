@@ -216,7 +216,7 @@ PhantomCrypt is provided for **research and evaluation only**. It has not been i
 @misc{phantomcrypt,
   title  = {PhantomCrypt: Composing Existence and Content Deniability
             under a Post-Quantum Envelope},
-  author = {Shahzad Ahmad and Stefan Rass and Zahra Seyedi},
+  author = {xyz et al.},
   year   = {2026},
   note   = {Under submission}
 }
